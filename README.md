@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Afroz Sheikh and I'm a MERN STACK WEB DEBVELOPER , from Aurangabad</p>
+<p align="left">My name is Afroz Sheikh and I'm a MERN STACK WEB DEVELOPER , from Aurangabad</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Backend Developement<br>🎯 Goals: Just One Goal<br>🎲 Fun fact: Lets Develope Something together</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Backend Developement<br>🎯 Goals:_________  <br>🎲 Fun fact: Lets Develope Something together</p>
 
 
 
