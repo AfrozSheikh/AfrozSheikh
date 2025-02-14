@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Backend Developement<br>🎯   <br>🎲 Fun fact: Lets Develope Something together</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Machine Learning<br>🎯   <br>🎲 Fun fact: Lets Develope Something together</p>
 
 
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+
 </div>
 
 ###
