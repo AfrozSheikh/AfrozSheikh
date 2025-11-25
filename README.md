@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Afroz Sheikh and I'm a MERN STACK WEB DEVELOPER , from Aurangabad</p>
+<p align="left">My name is Afroz Sheikh and I'm a FULL STACK DEVELOPER , from Aurangabad</p>
 
 ###
 
