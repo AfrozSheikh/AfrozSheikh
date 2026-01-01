@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning NextJS<br>🎯   <br>🎲 Fun fact: Lets Develope Something together</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning NextJS<br>🎯   <br>🎲 Fun fact: Lets Devlope Something together</p>
 
 
 
