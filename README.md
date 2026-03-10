@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Afroz Sheikh and I'm a FULL STACK DEVELOPER , from Aurangabad</p>
+<p align="left">My name is Afroz Sheikh and I'm a FULL STACK DEVELOPER , from Aurangabad, Maharashtra</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning NextJS<br>🎯   <br>🎲 Fun fact: Lets Devlope Something together</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning NextJS<br>🎯   <br>🎲 Lets Devlope Something together or Lets play a game of Chess</p>
 
 
 
